@@ -7,6 +7,9 @@ This project is a frontend application for expenses planner, built using React a
 
 [Project Demo](https://66545bc37d713970f949f8c0--rococo-cobbler-315c95.netlify.app/)
 
+![image](https://github.com/josefer09/expense_planner/assets/155212116/f873f309-eee6-4e6f-8704-e6481eb96c53)
+
+
 ## What I Learned
 
 In this project, I learned how to:
